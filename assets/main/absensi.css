@@ -1,0 +1,12 @@
+
+.z-table thead tr th, .z-table tbody tr td{
+	text-align: center;
+	vertical-align: middle;
+}
+.z-table tbody{
+	height: 120px;
+   	overflow-y: auto;
+}
+#z-left {		
+	text-align: left;
+}

@@ -1,0 +1,43 @@
+.ads-page {
+	width: 100%;
+	height: 100px;
+	padding-top: 10px;
+	padding-left: 10px;
+	
+
+}
+.ads-pro {
+	width: 70%;
+	height: 80px;
+	margin-left: 10px;
+	float: left;border-radius: 5px;
+	background-color: #fff;
+}
+.ads-page p, .ads-page h4 {
+	padding-left: 10px;
+}
+.ads-page p {
+	margin: 0;
+}
+.closed {
+	background-color: #ccc;
+	text-align: center;
+	position: relative;
+	width: 60px;
+	bottom: 5px;
+	padding: 3px;
+	border-radius: 0px 0px 5px 0px;
+	float: right;
+}
+.ads-img {
+	float: left;
+	width: 70px;
+	height: 70px;
+	background-color: #fff;
+    background-size: 100%;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+}
+.table1 tbody tr td {
+	vertical-align: middle !important;
+}

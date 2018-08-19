@@ -1,0 +1,20 @@
+.displaylogo {
+	width: 200px;
+	height: 200px;
+	color: #555;
+    background-color: #fff;
+    background-size: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.smschool {
+	width: 100px;
+	position: relative;
+	top: 20px;
+	float: right;
+}
